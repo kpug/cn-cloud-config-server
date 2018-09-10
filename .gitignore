@@ -17,7 +17,6 @@
 *.iml
 *.ipr
 /out/
-.idea/*
 
 ### NetBeans ###
 /nbproject/private/
@@ -25,4 +24,3 @@
 /dist/
 /nbdist/
 /.nb-gradle/
- No newline at end of file
